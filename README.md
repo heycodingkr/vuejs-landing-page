@@ -1,5 +1,22 @@
+# before you get started - jason ahn updatewd 2019.12.10
+
+ yarn instlal in mac - yarn 은 npm 같은 패키지 메니저
+
+ Yarn 이 없다면. 아래 링크로 설치.
+![Yarn install manual](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
+
+패키지 yarn install 로 인스톨 시 오류가 나서, npm install 로 설치함
+
+![Make Failed with Exit Code 2](https://codeforgeek.com/make-failed-with-exit-code-2/)
+
+
+
+
+
 # Boxer - Software Landing Page (Vue.js)
 This is a Vue.js boilerplate for the template [Boxer - Software Landing Page](https://themewagon.com/themes/software-landing-page-free-html5-template/) created by [ThemeWagon](https://themewagon.com/).
+
+
 
 ![open issues](https://img.shields.io/github/issues/codesandcoffees/vuejs-landing-page.svg)
 ![open prs](https://img.shields.io/github/issues-pr/codesandcoffees/vuejs-landing-page.svg)
