@@ -1,11 +1,10 @@
 # before you get started - jason ahn updatewd 2019.12.10
 
- yarn instlal in mac - yarn 은 npm 같은 패키지 메니저
 
- Yarn 이 없다면. 아래 링크로 설치.
+ Yarn install guide below.
 ![Yarn install manual](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
 
-패키지 yarn install 로 인스톨 시 오류가 나서, npm install 로 설치함
+yarn install failure guide.
 
 ![Make Failed with Exit Code 2](https://codeforgeek.com/make-failed-with-exit-code-2/)
 
